@@ -14,9 +14,19 @@ Un listado depurado de blogs en ingles y en español sobre seguridad informátic
 * Conexión Inversa http://conexioninversa.blogspot.com/ [(RSS)] (http://conexioninversa.blogspot.com/feeds/posts/default?alt=rss)
 * CRYPTEX http://seguridad-informacion.blogspot.com/ [(RSS)] (http://feeds.feedburner.com/SeguridadDeLaInformacion)
 * Cyberhades http://www.cyberhades.com/ [(RSS)] (http://feeds.feedburner.com/cyberhades/rss)
-* flu-project http://www.flu-project.com/ [(RSS)] (http://www.flu-project.com/feeds/posts/default?alt=rss)
+* Flu Project http://www.flu-project.com/ [(RSS)] (http://www.flu-project.com/feeds/posts/default?alt=rss)
+* Hacking Ético http://hacking-etico.com/ [(RSS)] (http://hacking-etico.com/feed/)
+* Hack Players http://www.hackplayers.com/ [(RSS)] (http://www.hackplayers.com/feeds/posts/default?alt=rss)
+* Hack Times http://www.hacktimes.com/ [(RSS)] (http://www.hacktimes.com/feed.xml)
+* Inseguros http://kinomakino.blogspot.com/ [(RSS)] (http://kinomakino.blogspot.com/feeds/posts/default?alt=rss)
+* KRIPTÓPOLIS http://www.kriptopolis.com/ [(RSS)] (http://www.kriptopolis.com/atom/feed%22)
+* Muy Seguridad http://muyseguridad.net/ [(RSS)] (http://rss.muyseguridad.net/feed)
 
 ## Blogs en Ingles
 
 * Dark Reading http://www.darkreading.com/ [(RSS)] (http://www.darkreading.com/rss_simple.asp)
 * Darknet http://www.darknet.org.uk/ [(RSS)] (http://feeds.feedburner.com/darknethackers)
+* F-Secure https://www.f-secure.com/weblog/ [(RSS)] (http://www.f-secure.com/weblog/weblog.rss)
+* Google Security http://googleonlinesecurity.blogspot.com/ [(RSS)] (http://feeds.feedburner.com/GoogleOnlineSecurityBlog)
+* Graham Cluley https://grahamcluley.com/ [(RSS)] (https://grahamcluley.com/feed/)
+* Naked Security https://nakedsecurity.sophos.com/ [(RSS)] (https://nakedsecurity.sophos.com/feed/)
