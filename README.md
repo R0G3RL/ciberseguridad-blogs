@@ -30,3 +30,12 @@ Un listado depurado de blogs sobre seguridad informática
 * Google Security http://googleonlinesecurity.blogspot.com/ [(RSS)] (http://feeds.feedburner.com/GoogleOnlineSecurityBlog)
 * Graham Cluley https://grahamcluley.com/ [(RSS)] (https://grahamcluley.com/feed/)
 * Naked Security https://nakedsecurity.sophos.com/ [(RSS)] (https://nakedsecurity.sophos.com/feed/)
+
+## Uso
+
+Puedes importar el archivo [opml]() a tu lector RSS favorito
+
+## Referencias
+
+* https://es.wikipedia.org/wiki/RSS
+* https://es.wikipedia.org/wiki/OPML
