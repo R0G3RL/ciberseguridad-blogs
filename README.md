@@ -14,7 +14,9 @@ Un listado depurado de blogs en ingles y en español sobre seguridad informátic
 * Conexión Inversa http://conexioninversa.blogspot.com/ [(RSS)] (http://conexioninversa.blogspot.com/feeds/posts/default?alt=rss)
 * CRYPTEX http://seguridad-informacion.blogspot.com/ [(RSS)] (http://feeds.feedburner.com/SeguridadDeLaInformacion)
 * Cyberhades http://www.cyberhades.com/ [(RSS)] (http://feeds.feedburner.com/cyberhades/rss)
+* flu-project http://www.flu-project.com/ [(RSS)] (http://www.flu-project.com/feeds/posts/default?alt=rss)
 
 ## Blogs en Ingles
 
 * Dark Reading http://www.darkreading.com/ [(RSS)] (http://www.darkreading.com/rss_simple.asp)
+* Darknet http://www.darknet.org.uk/ [(RSS)] (http://feeds.feedburner.com/darknethackers)
