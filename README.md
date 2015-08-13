@@ -21,6 +21,7 @@ Un listado depurado de blogs sobre seguridad informática
 * Inseguros http://kinomakino.blogspot.com/ [(RSS)] (http://kinomakino.blogspot.com/feeds/posts/default?alt=rss)
 * KRIPTÓPOLIS http://www.kriptopolis.com/ [(RSS)] (http://www.kriptopolis.com/atom/feed%22)
 * Muy Seguridad http://muyseguridad.net/ [(RSS)] (http://rss.muyseguridad.net/feed)
+* Spam Loco http://www.spamloco.net/ [(RSS)] (http://feeds.feedburner.com/Spamloco)
 
 ## Blogs en Ingles
 
