@@ -31,6 +31,7 @@ Un listado depurado de blogs sobre seguridad informática
 * Google Security http://googleonlinesecurity.blogspot.com/ [(RSS)] (http://feeds.feedburner.com/GoogleOnlineSecurityBlog)
 * Graham Cluley https://grahamcluley.com/ [(RSS)] (https://grahamcluley.com/feed/)
 * Naked Security https://nakedsecurity.sophos.com/ [(RSS)] (https://nakedsecurity.sophos.com/feed/)
+* The Hackers News http://thehackernews.com/ [(RSS)] (http://feeds.feedburner.com/TheHackersNews)
 
 ## Uso
 
