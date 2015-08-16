@@ -22,6 +22,7 @@ Un listado depurado de blogs sobre seguridad informática
 * KRIPTÓPOLIS http://www.kriptopolis.com/ [(RSS)] (http://www.kriptopolis.com/atom/feed%22)
 * Muy Seguridad http://muyseguridad.net/ [(RSS)] (http://rss.muyseguridad.net/feed)
 * Spam Loco http://www.spamloco.net/ [(RSS)] (http://feeds.feedburner.com/Spamloco)
+* InfoSpyware https://www.infospyware.com/ [(RSS)] (https://feeds.feedburner.com/InfoSpyware)
 
 ## Blogs en Ingles
 
