@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created by generate_opml.py, please don't edit manually. -->
+<opml version="1.0">
+    <head>
+        <title>ciberseguridad blogs</title>
+    </head>
+    <body>
+        <outline text="ciberseguridad blogs" title="ciberseguridad blogs">
+			<outline type="rss" text="Un informático del lado del mal" title="Un informático del lado del mal" xmlUrl="http://feeds.feedburner.com/ElLadoDelMal" htmlUrl="http://www.elladodelmal.com/"/>
+			<outline type="rss" text="Dragonjar" title="Dragonjar" xmlUrl="http://www.dragonjar.org/feed" htmlUrl="http://www.dragonjar.org/"/>
+			<outline type="rss" text="Una al día" title="Una al día" xmlUrl="http://feeds.feedburner.com/hispasec/zCAd" htmlUrl="http://unaaldia.hispasec.com/"/>
+			<outline type="rss" text="Segu-Info" title="Segu-Info" xmlUrl="http://feeds.feedburner.com/NoticiasSeguridadInformatica" htmlUrl="http://blog.segu-info.com.ar/"/>
+			<outline type="rss" text="0verl0ads Labs" title="0verl0ads Labs" xmlUrl="http://www.0verl0ad.net/feeds/posts/default" htmlUrl="http://www.0verl0ad.net/"/>
+			<outline type="rss" text="1gb de información" title="1gb de información" xmlUrl="http://www.1gbdeinfo.com/feeds/posts/default?alt=rss" htmlUrl="http://www.1gbdeinfo.com/"/>
+			<outline type="rss" text="Apuntes de seguridad de la información" title="Apuntes de seguridad de la información" xmlUrl="http://feeds.feedburner.com/Apuntes-Seguridad-Informacion" htmlUrl="http://seguridad-de-la-informacion.blogspot.com/"/>
+			<outline type="rss" text="Debian Hackers" title="Debian Hackers" xmlUrl="http://debianhackers.net/feed/" htmlUrl="http://debianhackers.net/"/>
+			<outline type="rss" text="Conexión Inversa" title="Conexión Inversa" xmlUrl="http://conexioninversa.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://conexioninversa.blogspot.com/"/>
+			<outline type="rss" text="CRYPTEX" title="CRYPTEX" xmlUrl="http://feeds.feedburner.com/SeguridadDeLaInformacion" htmlUrl="http://seguridad-informacion.blogspot.com/"/>
+			<outline type="rss" text="Cyberhades" title="Cyberhades" xmlUrl="http://feeds.feedburner.com/cyberhades/rss" htmlUrl="http://www.cyberhades.com/"/>
+			<outline type="rss" text="Flu Project" title="Flu Project" xmlUrl="http://www.flu-project.com/feeds/posts/default?alt=rss" htmlUrl="http://www.flu-project.com/"/>
+			<outline type="rss" text="Hacking Ético" title="Hacking Ético" xmlUrl="http://hacking-etico.com/feed/" htmlUrl="http://hacking-etico.com/"/>
+			<outline type="rss" text="Hack Players" title="Hack Players" xmlUrl="http://www.hackplayers.com/feeds/posts/default?alt=rss" htmlUrl="http://www.hackplayers.com/"/>
+			<outline type="rss" text="Hack Times" title="Hack Times" xmlUrl="http://www.hacktimes.com/feed.xml" htmlUrl="http://www.hacktimes.com/"/>
+			<outline type="rss" text="Inseguros" title="Inseguros" xmlUrl="http://kinomakino.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://kinomakino.blogspot.com/"/>
+			<outline type="rss" text="KRIPTÓPOLIS" title="KRIPTÓPOLIS" xmlUrl="http://www.kriptopolis.com/atom/feed%22" htmlUrl="http://www.kriptopolis.com/"/>
+			<outline type="rss" text="Muy Seguridad" title="Muy Seguridad" xmlUrl="http://rss.muyseguridad.net/feed" htmlUrl="http://muyseguridad.net/"/>
+			<outline type="rss" text="Spam Loco" title="Spam Loco" xmlUrl="http://feeds.feedburner.com/Spamloco" htmlUrl="http://www.spamloco.net/"/>
+			<outline type="rss" text="InfoSpyware" title="InfoSpyware" xmlUrl="https://feeds.feedburner.com/InfoSpyware" htmlUrl="https://www.infospyware.com/"/>
+			<outline type="rss" text="Dark Reading" title="Dark Reading" xmlUrl="http://www.darkreading.com/rss_simple.asp" htmlUrl="http://www.darkreading.com/"/>
+			<outline type="rss" text="Darknet" title="Darknet" xmlUrl="http://feeds.feedburner.com/darknethackers" htmlUrl="http://www.darknet.org.uk/"/>
+			<outline type="rss" text="F-Secure" title="F-Secure" xmlUrl="http://www.f-secure.com/weblog/weblog.rss" htmlUrl="https://www.f-secure.com/weblog/"/>
+			<outline type="rss" text="Google Security" title="Google Security" xmlUrl="http://feeds.feedburner.com/GoogleOnlineSecurityBlog" htmlUrl="http://googleonlinesecurity.blogspot.com/"/>
+			<outline type="rss" text="Graham Cluley" title="Graham Cluley" xmlUrl="https://grahamcluley.com/feed/" htmlUrl="https://grahamcluley.com/"/>
+			<outline type="rss" text="Naked Security" title="Naked Security" xmlUrl="https://nakedsecurity.sophos.com/feed/" htmlUrl="https://nakedsecurity.sophos.com/"/>
+			<outline type="rss" text="The Hackers News" title="The Hackers News" xmlUrl="http://feeds.feedburner.com/TheHackersNews" htmlUrl="http://thehackernews.com/"/>
+        </outline>
+    </body>
+</opml>
+    

@@ -38,6 +38,15 @@ Un listado depurado de blogs sobre seguridad informática
 
 Puedes importar el archivo [opml]() a tu lector RSS favorito
 
+## Lectores RSS (Libres)
+* [spaRSS](https://github.com/Etuldan/spaRSS) - Recomendado
+* [EasyRSS]()
+* [Flym]()
+* [NewsBlur]()
+* [ownCloud News Reader]()
+* [Simple rss]()
+* [TTRSS-Reader]()
+
 ## Referencias
 
 * https://es.wikipedia.org/wiki/RSS
