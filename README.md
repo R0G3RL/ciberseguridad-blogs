@@ -40,14 +40,17 @@ Puedes importar el archivo [opml](https://raw.githubusercontent.com/v13lm4/ciber
 
 ## Lectores RSS (Libres)
 * [spaRSS](https://github.com/Etuldan/spaRSS) - Recomendado
-* [EasyRSS]()
-* [Flym]()
-* [NewsBlur]()
-* [ownCloud News Reader]()
-* [Simple rss]()
-* [TTRSS-Reader]()
+* [EasyRSS](https://github.com/Alkarex/EasyRSS/blob/HEAD/README.md)
+* [Flym](https://github.com/FredJul/Flym)
+* [NewsBlur](http://newsblur.com/)
+* [ownCloud News Reader](https://github.com/owncloud/News-Android-App)
+* [TTRSS-Reader](https://github.com/nilsbraden/ttrss-reader-fork/blob/HEAD/README.md)
 
 ## Referencias
 
 * https://es.wikipedia.org/wiki/RSS
 * https://es.wikipedia.org/wiki/OPML
+
+## Créditos
+
+Éste es un proyecto basado en [data-science-blogs](https://github.com/rushter/data-science-blogs)
