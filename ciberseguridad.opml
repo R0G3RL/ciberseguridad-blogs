@@ -26,6 +26,7 @@
 			<outline type="rss" text="Muy Seguridad" title="Muy Seguridad" xmlUrl="http://rss.muyseguridad.net/feed" htmlUrl="http://muyseguridad.net/"/>
 			<outline type="rss" text="Spam Loco" title="Spam Loco" xmlUrl="http://feeds.feedburner.com/Spamloco" htmlUrl="http://www.spamloco.net/"/>
 			<outline type="rss" text="InfoSpyware" title="InfoSpyware" xmlUrl="https://feeds.feedburner.com/InfoSpyware" htmlUrl="https://www.infospyware.com/"/>
+			<outline type="rss" text="SniferL4bs" title="SniferL4bs" xmlUrl="http://feeds.feedburner.com/snifer" htmlUrl="http://www.sniferl4bs.com/"/>
 			<outline type="rss" text="Dark Reading" title="Dark Reading" xmlUrl="http://www.darkreading.com/rss_simple.asp" htmlUrl="http://www.darkreading.com/"/>
 			<outline type="rss" text="Darknet" title="Darknet" xmlUrl="http://feeds.feedburner.com/darknethackers" htmlUrl="http://www.darknet.org.uk/"/>
 			<outline type="rss" text="F-Secure" title="F-Secure" xmlUrl="http://www.f-secure.com/weblog/weblog.rss" htmlUrl="https://www.f-secure.com/weblog/"/>
@@ -33,6 +34,16 @@
 			<outline type="rss" text="Graham Cluley" title="Graham Cluley" xmlUrl="https://grahamcluley.com/feed/" htmlUrl="https://grahamcluley.com/"/>
 			<outline type="rss" text="Naked Security" title="Naked Security" xmlUrl="https://nakedsecurity.sophos.com/feed/" htmlUrl="https://nakedsecurity.sophos.com/"/>
 			<outline type="rss" text="The Hackers News" title="The Hackers News" xmlUrl="http://feeds.feedburner.com/TheHackersNews" htmlUrl="http://thehackernews.com/"/>
+			<outline type="rss" text="Taosecurity" title="Taosecurity" xmlUrl="http://taosecurity.blogspot.com/feeds/posts/default?alt=rss" htmlUrl="http://taosecurity.blogspot.com/"/>
+			<outline type="rss" text="ThreatPost" title="ThreatPost" xmlUrl="http://threatpost.com/feed" htmlUrl="https://threatpost.com/"/>
+			<outline type="rss" text="Krebs on Security" title="Krebs on Security" xmlUrl="http://krebsonsecurity.com/feed/" htmlUrl="http://krebsonsecurity.com/"/>
+			<outline type="rss" text="Threat Level" title="Threat Level" xmlUrl="http://www.wired.com/category/security/threatlevel/feed/" htmlUrl="http://www.wired.com/category/threatlevel"/>
+			<outline type="rss" text="Dan Kaminsky" title="Dan Kaminsky" xmlUrl="http://dankaminsky.com/feed/" htmlUrl="http://dankaminsky.com/"/>
+			<outline type="rss" text="Security Weekly" title="Security Weekly" xmlUrl="http://feeds.feedburner.com/securityweekly/Lviv" htmlUrl="http://securityweekly.com/"/>
+			<outline type="rss" text="It Security Guru" title="It Security Guru" xmlUrl="http://www.itsecurityguru.org/feed/" htmlUrl="http://www.itsecurityguru.org/"/>
+			<outline type="rss" text="Hacking Articles" title="Hacking Articles" xmlUrl="http://www.hackingarticles.in/feed/" htmlUrl="http://www.hackingarticles.in/"/>
+			<outline type="rss" text="Social Engineer" title="Social Engineer" xmlUrl="http://www.social-engineer.org/feed/" htmlUrl="http://www.social-engineer.org/blog/"/>
+			<outline type="rss" text="Uncommon Sense Security" title="Uncommon Sense Security" xmlUrl="http://blog.uncommonsensesecurity.com/feeds/posts/default?alt=rss" htmlUrl="http://blog.uncommonsensesecurity.com/"/>
         </outline>
     </body>
 </opml>
