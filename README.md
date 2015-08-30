@@ -36,7 +36,7 @@ Un listado depurado de blogs sobre seguridad informática
 
 ## Uso
 
-Puedes importar el archivo [opml]() a tu lector RSS favorito
+Puedes importar el archivo [opml](https://raw.githubusercontent.com/v13lm4/ciberseguridad-blogs/master/ciberseguridad.opml) a tu lector RSS favorito
 
 ## Lectores RSS (Libres)
 * [spaRSS](https://github.com/Etuldan/spaRSS) - Recomendado
