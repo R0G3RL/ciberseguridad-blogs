@@ -28,4 +28,4 @@ for url in feeds:
         if dt >= past_month:
             per_month += 1
 
-print('Frecuencia de post en los Blogs: {} por semana / {} por mes.'.format(per_week, per_month))
+print('Frecuencia estimada de post: {} por semana / {} por mes.'.format(per_week, per_month))
