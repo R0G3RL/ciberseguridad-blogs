@@ -23,6 +23,7 @@ Un listado depurado de blogs sobre seguridad informática
 * Muy Seguridad http://muyseguridad.net/ [(RSS)] (http://rss.muyseguridad.net/feed)
 * Spam Loco http://www.spamloco.net/ [(RSS)] (http://feeds.feedburner.com/Spamloco)
 * InfoSpyware https://www.infospyware.com/ [(RSS)] (https://feeds.feedburner.com/InfoSpyware)
+* SniferL4bs http://www.sniferl4bs.com/ [(RSS)] (http://feeds.feedburner.com/snifer)
 
 ## Blogs en Ingles
 
@@ -33,6 +34,16 @@ Un listado depurado de blogs sobre seguridad informática
 * Graham Cluley https://grahamcluley.com/ [(RSS)] (https://grahamcluley.com/feed/)
 * Naked Security https://nakedsecurity.sophos.com/ [(RSS)] (https://nakedsecurity.sophos.com/feed/)
 * The Hackers News http://thehackernews.com/ [(RSS)] (http://feeds.feedburner.com/TheHackersNews)
+* Taosecurity http://taosecurity.blogspot.com/ [(RSS)] (http://taosecurity.blogspot.com/feeds/posts/default?alt=rss)
+* ThreatPost https://threatpost.com/ [(RSS)] (http://threatpost.com/feed)
+* Krebs on Security http://krebsonsecurity.com/ [(RSS)] (http://krebsonsecurity.com/feed/)
+* Threat Level http://www.wired.com/category/threatlevel [(RSS)] (http://www.wired.com/category/security/threatlevel/feed/)
+* Dan Kaminsky http://dankaminsky.com/ [(RSS)] (http://dankaminsky.com/feed/)
+* Security Weekly http://securityweekly.com/ [(RSS)] (http://feeds.feedburner.com/securityweekly/Lviv)
+* It Security Guru http://www.itsecurityguru.org/ [(RSS)] (http://www.itsecurityguru.org/feed/)
+* Hacking Articles http://www.hackingarticles.in/ [(RSS)] (http://www.hackingarticles.in/feed/)
+* Social Engineer http://www.social-engineer.org/blog/ [(RSS)] (http://www.social-engineer.org/feed/)
+* Uncommon Sense Security http://blog.uncommonsensesecurity.com/ [(RSS)] (http://blog.uncommonsensesecurity.com/feeds/posts/default?alt=rss)
 
 ## Uso
 
