@@ -64,4 +64,4 @@ Puedes importar el archivo [opml](https://raw.githubusercontent.com/v13lm4/ciber
 
 ## Créditos
 
-Éste es un proyecto inspirado en [data-science-blogs](https://github.com/rushter/data-science-blogs)
+[ciberseguridad-blogs](https://github.com/v13lm4/ciberseguridad-blogs) es un proyecto inspirado en [data-science-blogs](https://github.com/rushter/data-science-blogs)
