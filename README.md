@@ -24,6 +24,7 @@ Un listado depurado de blogs sobre seguridad informática
 * Spam Loco http://www.spamloco.net/ [(RSS)] (http://feeds.feedburner.com/Spamloco)
 * InfoSpyware https://www.infospyware.com/ [(RSS)] (https://feeds.feedburner.com/InfoSpyware)
 * SniferL4bs http://www.sniferl4bs.com/ [(RSS)] (http://feeds.feedburner.com/snifer)
+* Hipertextual http://hipertextual.com/seguridad/ [(RSS)] (http://hipertextual.com/seguridad/feed)
 
 ## Blogs en Ingles
 
