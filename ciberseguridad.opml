@@ -27,6 +27,7 @@
 			<outline type="rss" text="Spam Loco" title="Spam Loco" xmlUrl="http://feeds.feedburner.com/Spamloco" htmlUrl="http://www.spamloco.net/"/>
 			<outline type="rss" text="InfoSpyware" title="InfoSpyware" xmlUrl="https://feeds.feedburner.com/InfoSpyware" htmlUrl="https://www.infospyware.com/"/>
 			<outline type="rss" text="SniferL4bs" title="SniferL4bs" xmlUrl="http://feeds.feedburner.com/snifer" htmlUrl="http://www.sniferl4bs.com/"/>
+			<outline type="rss" text="Hipertextual" title="Hipertextual" xmlUrl="http://hipertextual.com/seguridad/feed" htmlUrl="http://hipertextual.com/seguridad/"/>
 			<outline type="rss" text="Dark Reading" title="Dark Reading" xmlUrl="http://www.darkreading.com/rss_simple.asp" htmlUrl="http://www.darkreading.com/"/>
 			<outline type="rss" text="Darknet" title="Darknet" xmlUrl="http://feeds.feedburner.com/darknethackers" htmlUrl="http://www.darknet.org.uk/"/>
 			<outline type="rss" text="F-Secure" title="F-Secure" xmlUrl="http://www.f-secure.com/weblog/weblog.rss" htmlUrl="https://www.f-secure.com/weblog/"/>
