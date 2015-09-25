@@ -45,6 +45,7 @@ Un listado depurado de blogs sobre seguridad informática
 * Hacking Articles http://www.hackingarticles.in/ [(RSS)] (http://www.hackingarticles.in/feed/)
 * Social Engineer http://www.social-engineer.org/blog/ [(RSS)] (http://www.social-engineer.org/feed/)
 * Uncommon Sense Security http://blog.uncommonsensesecurity.com/ [(RSS)] (http://blog.uncommonsensesecurity.com/feeds/posts/default?alt=rss)
+* CyberArk http://www.cyberark.com/ [(RSS)] (http://www.cyberark.com/feed/)
 
 ## Uso
 
