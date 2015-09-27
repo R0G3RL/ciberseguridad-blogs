@@ -46,7 +46,9 @@ Un listado depurado de blogs sobre seguridad informática
 * Social Engineer http://www.social-engineer.org/blog/ [(RSS)] (http://www.social-engineer.org/feed/)
 * Uncommon Sense Security http://blog.uncommonsensesecurity.com/ [(RSS)] (http://blog.uncommonsensesecurity.com/feeds/posts/default?alt=rss)
 * CyberArk http://www.cyberark.com/ [(RSS)] (http://www.cyberark.com/feed/)
-* Naked Security https://nakedsecurity.sophos.com/ [(RSS)] (https://nakedsecurity.sophos.com/feed/)
+* Security Watch http://bhconsulting.ie/securitywatch/ [(RSS)] (http://bhconsulting.ie/securitywatch/?feed=rss2)
+* Security Week http://www.securityweek.com/ [(RSS)] (http://feeds.feedburner.com/securityweek)
+* Securosis https://securosis.com/blog [(RSS)] (https://securosis.com/feeds/blog)
 
 ## Uso
 
