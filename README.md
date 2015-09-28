@@ -49,6 +49,7 @@ Un listado depurado de blogs sobre seguridad informática
 * Security Watch http://bhconsulting.ie/securitywatch/ [(RSS)] (http://bhconsulting.ie/securitywatch/?feed=rss2)
 * Security Week http://www.securityweek.com/ [(RSS)] (http://feeds.feedburner.com/securityweek)
 * Securosis https://securosis.com/blog [(RSS)] (https://securosis.com/feeds/blog)
+* Veracode https://www.veracode.com/blog/ [(RSS)] (https://www.veracode.com/blog/feed)
 
 ## Uso
 

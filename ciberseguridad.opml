@@ -45,6 +45,11 @@
 			<outline type="rss" text="Hacking Articles" title="Hacking Articles" xmlUrl="http://www.hackingarticles.in/feed/" htmlUrl="http://www.hackingarticles.in/"/>
 			<outline type="rss" text="Social Engineer" title="Social Engineer" xmlUrl="http://www.social-engineer.org/feed/" htmlUrl="http://www.social-engineer.org/blog/"/>
 			<outline type="rss" text="Uncommon Sense Security" title="Uncommon Sense Security" xmlUrl="http://blog.uncommonsensesecurity.com/feeds/posts/default?alt=rss" htmlUrl="http://blog.uncommonsensesecurity.com/"/>
+			<outline type="rss" text="CyberArk" title="CyberArk" xmlUrl="http://www.cyberark.com/feed/" htmlUrl="http://www.cyberark.com/"/>
+			<outline type="rss" text="Security Watch" title="Security Watch" xmlUrl="http://bhconsulting.ie/securitywatch/?feed=rss2" htmlUrl="http://bhconsulting.ie/securitywatch/"/>
+			<outline type="rss" text="Security Week" title="Security Week" xmlUrl="http://feeds.feedburner.com/securityweek" htmlUrl="http://www.securityweek.com/"/>
+			<outline type="rss" text="Securosis" title="Securosis" xmlUrl="https://securosis.com/feeds/blog" htmlUrl="https://securosis.com/blog"/>
+			<outline type="rss" text="Veracode" title="Veracode" xmlUrl="https://www.veracode.com/blog/feed" htmlUrl="https://www.veracode.com/blog/"/>
         </outline>
     </body>
 </opml>
