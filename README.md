@@ -25,6 +25,8 @@ Un listado depurado de blogs sobre seguridad informática
 * InfoSpyware https://www.infospyware.com/ [(RSS)] (https://feeds.feedburner.com/InfoSpyware)
 * SniferL4bs http://www.sniferl4bs.com/ [(RSS)] (http://feeds.feedburner.com/snifer)
 * Hipertextual http://hipertextual.com/seguridad/ [(RSS)] (http://hipertextual.com/seguridad/feed)
+* elhacker.net http://blog.elhacker.net/ [(RSS)] (http://blog.elhacker.net/feeds/posts/default?alt=rss)
+* GlobSecurity http://globbsecurity.com/ [(RSS)] (http://globbsecurity.com/feed/)
 
 ## Blogs en Ingles
 
