@@ -1,5 +1,5 @@
 # ciberseguridad-blogs
-Un listado depurado de blogs sobre seguridad informática
+Un listado de blogs sobre seguridad informática
 
 ## Blogs en Español
 
