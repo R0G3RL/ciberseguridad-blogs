@@ -7,6 +7,7 @@
     <body>
         <outline text="ciberseguridad blogs" title="ciberseguridad blogs">
 			<outline type="rss" text="Un informático del lado del mal" title="Un informático del lado del mal" xmlUrl="http://feeds.feedburner.com/ElLadoDelMal" htmlUrl="http://www.elladodelmal.com/"/>
+			<outline type="rss" text="Security By Default" title="Security By Default" xmlUrl="http://feeds.feedburner.com/SecurityByDefault" htmlUrl="http://www.securitybydefault.com/"/>
 			<outline type="rss" text="Dragonjar" title="Dragonjar" xmlUrl="http://www.dragonjar.org/feed" htmlUrl="http://www.dragonjar.org/"/>
 			<outline type="rss" text="Una al día" title="Una al día" xmlUrl="http://feeds.feedburner.com/hispasec/zCAd" htmlUrl="http://unaaldia.hispasec.com/"/>
 			<outline type="rss" text="Segu-Info" title="Segu-Info" xmlUrl="http://feeds.feedburner.com/NoticiasSeguridadInformatica" htmlUrl="http://blog.segu-info.com.ar/"/>
