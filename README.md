@@ -4,6 +4,7 @@ Un listado de blogs sobre seguridad informática
 ## Blogs en Español
 
 * Un informático del lado del mal http://www.elladodelmal.com/ [(RSS)] (http://feeds.feedburner.com/ElLadoDelMal)
+* Security By Default http://www.securitybydefault.com/ [(RSS)] (http://feeds.feedburner.com/SecurityByDefault)
 * Dragonjar http://www.dragonjar.org/ [(RSS)] (http://www.dragonjar.org/feed)
 * Una al día http://unaaldia.hispasec.com/ [(RSS)] (http://feeds.feedburner.com/hispasec/zCAd)
 * Segu-Info http://blog.segu-info.com.ar/ [(RSS)] (http://feeds.feedburner.com/NoticiasSeguridadInformatica)
